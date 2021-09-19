@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/comming_soon/static/css/main.8a9691af.chunk.css",
+    "main.js": "/comming_soon/static/js/main.6f6d640b.chunk.js",
+    "main.js.map": "/comming_soon/static/js/main.6f6d640b.chunk.js.map",
+    "runtime-main.js": "/comming_soon/static/js/runtime-main.ab32634e.js",
+    "runtime-main.js.map": "/comming_soon/static/js/runtime-main.ab32634e.js.map",
+    "static/css/2.818011ed.chunk.css": "/comming_soon/static/css/2.818011ed.chunk.css",
+    "static/js/2.37fbe298.chunk.js": "/comming_soon/static/js/2.37fbe298.chunk.js",
+    "static/js/2.37fbe298.chunk.js.map": "/comming_soon/static/js/2.37fbe298.chunk.js.map",
+    "static/js/3.99a2696a.chunk.js": "/comming_soon/static/js/3.99a2696a.chunk.js",
+    "static/js/3.99a2696a.chunk.js.map": "/comming_soon/static/js/3.99a2696a.chunk.js.map",
+    "index.html": "/comming_soon/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/comming_soon/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.8a9691af.chunk.css.map": "/comming_soon/static/css/main.8a9691af.chunk.css.map",
+    "static/js/2.37fbe298.chunk.js.LICENSE.txt": "/comming_soon/static/js/2.37fbe298.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/comming_soon/static/media/bg-mobile-fallback.e14e2b72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab32634e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.37fbe298.chunk.js",
+    "static/css/main.8a9691af.chunk.css",
+    "static/js/main.6f6d640b.chunk.js"
+  ]
+}
